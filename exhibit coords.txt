@@ -1,0 +1,14 @@
+makati
+249, 16, 285, 52 - galeria astra
+300, 45, 336, 80 - ricco renzo cafe
+328, 447, 365, 484 - art in the park
+
+sm
+312, 83, 352, 120 - sm art center
+195, 341, 228, 376 - galerie stephanie
+
+market, market
+281, 334, 339, 396 - market market
+
+glorietta
+268, 258, 306, 300 - glorietta
